@@ -99,7 +99,7 @@ export const USER_CONFIG = {
       id: "oh_J-6T348YWT_MiAA8KRa3Oggrw",
       useTemplateId:"0u0hPBjNW6nEk2FBhoI6J72fWvmx3fntHyxM6b0iwnU",
       province: "",
-      city: "达州",
+      city: "渠县",
       horoscopeDate: '',
       horoscopeDateType: '',
       openUrl: "https://wangxinleo.cn",
