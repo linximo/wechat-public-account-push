@@ -44,7 +44,7 @@ export const USER_CONFIG = {
     horoscope: false,
     
     /** 生日消息和节日消息 */
-    birthdayMessage: true,
+    birthdayMessage: false,
   },
   
   /** 每日一言 */
@@ -99,7 +99,7 @@ export const USER_CONFIG = {
       id: "oh_J-6T348YWT_MiAA8KRa3Oggrw",
       useTemplateId:"BRwm_29b7ZABQXkfgO2TVgltLp0TJzLGgm3uKlErdi8",
       province: "",
-      city: "渠县",
+      city: "深圳",
       horoscopeDate: '10-01',
       horoscopeDateType: '今日',
       openUrl: "",
