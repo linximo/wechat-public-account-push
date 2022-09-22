@@ -100,33 +100,9 @@ export const USER_CONFIG = {
       useTemplateId:"0u0hPBjNW6nEk2FBhoI6J72fWvmx3fntHyxM6b0iwnU",
       province: "",
       city: "渠县",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
-      name: "老婆3",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
+      horoscopeDate: '10-01',
+      horoscopeDateType: '今日',
+      openUrl: "",
       festivals: [],
       customizedDateList: []
     },
@@ -160,9 +136,9 @@ export const USER_CONFIG = {
   /** 天气相关 */
   
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "广东",
+  PROVINCE: "四川",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "惠州",
+  CITY: "达州",
   
   /** 重要节日相关 */
   
